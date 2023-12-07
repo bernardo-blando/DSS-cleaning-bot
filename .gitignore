@@ -1,0 +1,15 @@
+/.DS_Store
+/.vs
+/Adjacent_weight.png
+/Read.me
+/__pycache__
+/adjacent_weight.csv
+/data.txt
+/distance_penalty.csv
+/explore.ipynb
+/mytestmap.csv
+/scores.csv
+/scores_adjacent_weight.png
+/scores_distance_penalty_multiplier.png
+/testing.py
+/txt.txt
